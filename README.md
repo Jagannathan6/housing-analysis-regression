@@ -1,4 +1,5 @@
-Assignment Part-I
+**Assignment Part-I**
+
 A US-based housing company named Surprise Housing has decided to enter the Australian market. The company uses data analytics to purchase houses at a price below their actual values and flip them on at a higher price. For the same purpose, the company has collected a data set from the sale of houses in Australia. The data is provided in the CSV file below.
 
  
@@ -9,9 +10,9 @@ The company is looking at prospective properties to buy to enter the market. You
 
 The company wants to know:
 
-Which variables are significant in predicting the price of a house, and
+1) Which variables are significant in predicting the price of a house, and
 
-How well those variables describe the price of a house.
+2) How well those variables describe the price of a house.
 
  
 
@@ -19,7 +20,7 @@ Also, determine the optimal value of lambda for ridge and lasso regression.
 
  
 
-Business Goal 
+**Business Goal **
 
  
 
